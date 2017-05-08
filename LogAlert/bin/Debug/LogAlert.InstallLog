@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\LogAlert.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\LogAlert.InstallLog
+   assemblypath = C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\LogAlert.exe
+Installing service LogAlert...
+Service LogAlert has been successfully installed.
+Creating EventLog source LogAlert in log Application...
+Committing assembly 'C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\LogAlert.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\LogAlert.InstallLog
+   assemblypath = C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\LogAlert.exe

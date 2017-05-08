@@ -1,0 +1,15 @@
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\obj\Debug\LogAlert.ProjectInstaller.resources
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\obj\Debug\LogAlert.csproj.GenerateResource.Cache
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\LogAlert.exe.config
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\LogAlert.exe
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\LogAlert.pdb
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\System.Web.Http.dll
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\System.Web.Http.xml
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\obj\Debug\LogAlert.exe
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\obj\Debug\LogAlert.pdb

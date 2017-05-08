@@ -1,0 +1,15 @@
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Release\LogAlert.exe.config
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Release\LogAlert.exe
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Release\LogAlert.pdb
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Release\Newtonsoft.Json.dll
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Release\System.Web.Http.dll
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Release\System.Web.Http.SelfHost.dll
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Release\Newtonsoft.Json.xml
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Release\System.Web.Http.xml
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\bin\Release\System.Web.Http.SelfHost.xml
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\obj\Release\LogAlert.ProjectInstaller.resources
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\obj\Release\LogAlert.csproj.GenerateResource.Cache
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\obj\Release\LogAlert.exe
+C:\Users\anastasiya.marynska\Documents\Visual Studio 2017\Projects\LogAlert\LogAlert\obj\Release\LogAlert.pdb
